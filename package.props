@@ -1,0 +1,11 @@
+<Project>
+  
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);CS1591;CS1998;NU1603</NoWarn>
+    <PackageIconUrl>http://www.yhglobal.com/images/YH.Bee.logo_128.png</PackageIconUrl>
+    <RepositoryUrl>http://git.pro.yhglobal.cn/YH/Bee/Bee.EventBus</RepositoryUrl>
+    <Company>yhglobal Co.,Ltd.</Company>
+    <Authors>yhglobal Co.,Ltd.;Akini Xu</Authors>
+  </PropertyGroup>
+
+</Project>
